@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="menuContacto">Contacto</string>
+    <string name="menuAcercaDe">Acerca de</string>
+    <string name="nombreCompleto">Nombre Completo</string>
+    <string name="email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bio">Israel Durán Martínez, 38 años.\n\n
+        Estudié Ingeniería en Computación en la Faculta de Ingeniería de la UNAM en el año 1997.\n\n
+        Actualmente me dedico al desarrollo de Software y a la automatización de procesos en la Biblioteca Digital de la UNAM</string>
+</resources>
